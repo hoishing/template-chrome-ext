@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "萌典",
+  "name": "Ext Name",
   "version": "1.0.0",
   "action": { "default_popup": "index.html" },
   "background": {
