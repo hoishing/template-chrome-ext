@@ -14,8 +14,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.7.21",
     "@crxjs/vite-plugin": "^1.0.14",
+    "@types/chrome": "^0.0.197",
+    "@types/node": "^18.7.21",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
