@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Ext Name",
+  "description": "tagline of your extension",
   "version": "1.0.0",
   "action": { "default_popup": "index.html" },
   "background": {

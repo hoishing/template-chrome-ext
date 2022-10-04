@@ -5,4 +5,8 @@ module.exports = {
     extend: {},
   },
   plugins: [require("daisyui")],
-}
+  // see https://daisyui.com/docs/themes for avaible themes
+  // daisyui: {
+  //   themes: ["cupcake"],
+  // },
+};
