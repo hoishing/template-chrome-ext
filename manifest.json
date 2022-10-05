@@ -4,6 +4,10 @@
   "description": "tagline of your extension",
   "version": "1.0.0",
   "action": { "default_popup": "index.html" },
+  "icons": {
+    "64": "mic-64.png",
+    "128": "mic-128.png"
+  },
   "background": {
     "service_worker": "./src/service-worker.ts",
     "type": "module"
