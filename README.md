@@ -1,16 +1,16 @@
-# Chrome extension template with Vite, CRXJS, React, and DaisyUI
+# Chrome extension template w/ Vite, CRXJS, React, tailwindcss and more
 
 this is a chrome extension creation template packed with the following goodies:
 
-- [Vite](https://vitejs.dev/): dev server automatically compile TS files with Hot Module Reload
-- [CRXJS](https://crxjs.dev/vite-plugin): vite plugin for chrome extension creation
+- [Vite](https://vitejs.dev/): dev server w/ Hot Module Reload
+- [CRXJS](https://crxjs.dev/vite-plugin): vite plugin auto generating chrome ext on save
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [tailwindcss](https://tailwindcss.com/)
-- [DaisyUI](https://daisyui.com/): tailwind component library
+- [daisyUI](https://daisyui.com/): beloved tailwind component library
 - [iconify](https://iconify.design): dev friendly icon collections
 
-# Motivation
+# Why
 
 The developer experience(DX) of creating Chrome extension with Typescript is bad. We need to compile the ts file with `tsc` and restart the dev server every time the src files have changed.
 
@@ -42,7 +42,7 @@ This template pre-configured with React, Typescript, tailwindcss, DaisyUI and ic
 - ...
 - ...
 
-## Usage
+## How to use
 
 🎬 https://youtube/url
 
@@ -55,6 +55,8 @@ This template pre-configured with React, Typescript, tailwindcss, DaisyUI and ic
 why u create this extension
 
 ## Technical Details
+
+github repo: http://github.com/user/repo
 
 ### How to build
 
