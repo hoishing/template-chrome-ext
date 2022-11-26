@@ -1,5 +1,7 @@
 # Chrome extension template w/ Vite, CRXJS, React, tailwindcss and more
 
+[![GitHub](https://img.shields.io/github/license/hoishing/template-chrome-ext)](https://opensource.org/licenses/MIT)
+
 this is a chrome extension creation template packed with the following goodies:
 
 - [Vite](https://vitejs.dev/): dev server w/ Hot Module Reload
